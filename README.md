@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Langlesj
-- 👀 I’m interested in ...Cybersecurty
-- 🌱 I’m currently learning ...PCI 
-- 💞️ I’m looking to collaborate on ...Cybersecurty 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...him/he
-- ⚡ Fun fact: ... drones 
+# My Cybersecurity Journey
+
+Hi! I'm Stephen, preparing for my Security+ exam and first SOC Analyst job.  
+Here are my notes, labs, and projects.
+
+## 📘 Contents:
+- [Security+ Notes](#security-notes)
+- [Log Analysis Exercises](#log-analysis)
+- [TryHackMe Labs](#tryhackme)
 
 <!---
 Langlesj/Langlesj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
