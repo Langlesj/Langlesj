@@ -1,7 +1,5 @@
 # My Cybersecurity Journey
-
-Hi! I'm Stephen, preparing for my Security+ exam and first SOC Analyst job.  
-Here are my notes, labs, and projects.
+Aspiring SOC Analyst with hands-on experience in log analysis, SIEM monitoring, vulnerability assessment, and incident response labs. Currently preparing for CompTIA Security+ and building real-world defensive security projects using Python, Linux, and industry tools.
 
 ## 📘 Contents:
 - [Security+ Notes](#security-notes)
